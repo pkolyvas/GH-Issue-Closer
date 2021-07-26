@@ -1,0 +1,5 @@
+We're in the process of moving Grafana feature requests to [GitHub Discussions](https://community.grafana.com/t/were-moving-grafana-feature-requests-to-github-discussions/50341/3). I'm closing feature requests that have seen limited from the community and/or the Grafana team. 
+
+Should this feature still be of interest to you, please re-create it in our [Discussions area](https://github.com/grafana/grafana/discussions). In doing so the community can continue to contribute to exploring, confirming and sharing their use cases (and more).
+
+As with all things Grafana, we value your input and participation in this project and appreciate your patience during this transitional period. Should you wish to connect to discuss anything Grafana-related, I have an open door policy and [my contact details are on my GitHub profile page](https://github.com/pkolyvas).
